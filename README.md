@@ -1,2 +1,2 @@
-# molview
+# Moview
 Molecular view
